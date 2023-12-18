@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project consists of performing a penetration test of a pfSense Firewall.
+This project consists of performing a penetration test of a pfSense Firewall. View PDF File under file section with screenshots. 
 <br />
 
 
