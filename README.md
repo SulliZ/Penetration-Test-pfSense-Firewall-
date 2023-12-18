@@ -5,6 +5,8 @@
 This project consists of performing a penetration test of a pfSense Firewall. View PDF File under file section with screenshots. 
 <br />
 
+-[Screenshots and step by step process](https://github.com/SulliZ/Penetration-Test-pfSense-Firewall-/blob/main/Saliman_Zadran_Penetration_Testing_a_pfSense_Firewall_3e.pdf) 
+
 
 <h2>Applications Used</h2>
 
